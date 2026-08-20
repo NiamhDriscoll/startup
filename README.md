@@ -1,6 +1,6 @@
 Hello there,
 this is my startup app. It handles what happens when I start up my computer. However, if you decide to use it, there are specific cases that need to be true.
-First, running linux (my distro is arch)
+First, running linux (my distro is arch, it probably works with other distros)
 Also, using xfce with the startx command 
 Finally, have btop installed.
 
